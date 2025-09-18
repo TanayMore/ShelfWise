@@ -1,0 +1,31 @@
+import {
+  LayoutDashboard,
+  ClipboardList,
+  ShoppingCart,
+  Package,
+  BarChart3,
+  FileDown,
+  Truck,
+  Layers3,
+  ActivitySquare,
+  FlaskConical,
+  Users2,
+  Settings,
+  Bell,
+} from "lucide-react"
+
+export const appNav = [
+  { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
+  { href: "/stock-logging", label: "Stock Logging", icon: ClipboardList },
+  { href: "/sales-logging", label: "Sales Logging", icon: ShoppingCart },
+  { href: "/refill", label: "Refill", icon: Package },
+  { href: "/analysis", label: "Analysis", icon: BarChart3 },
+  { href: "/reports", label: "Reports", icon: FileDown },
+  { href: "/suppliers", label: "Suppliers", icon: Truck },
+  { href: "/pre-sale-stock", label: "Pre-Sale Stock", icon: Layers3 },
+  { href: "/post-sale-stock", label: "Post-Sale Stock", icon: ActivitySquare },
+  { href: "/expiry-tracking", label: "Expiry", icon: FlaskConical },
+  { href: "/roles-permissions", label: "Roles", icon: Users2 },
+  { href: "/settings", label: "Settings", icon: Settings },
+  { href: "/notifications", label: "Alerts", icon: Bell },
+]
