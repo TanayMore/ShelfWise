@@ -1,0 +1,501 @@
+product_id,product_name,brand_name,unit_price,initial_stock
+1,Paneer Block,Amul,292.01,176
+2,Coffee,Nescafe,101.86,164
+3,Soft Candy,Pulse,72.89,133
+4,Spices,Everest,101.85,136
+5,Masoor Dal,Tata Sampann,56.43,224
+6,Juice,Minute Maid,44.01,228
+7,Moong Dal,Tata Sampann,133.48,246
+8,Lassi,Amul,125.8,147
+9,Biscuits,Parle,12.92,235
+10,Noodles,Maggi,49.7,137
+11,Bisleri Water,Bisleri,82.79,211
+12,Biscuits,Parle,12.92,231
+13,Floor Cleaner,Lizol,290.58,115
+14,Energy Drink,Red Bull,44.57,263
+15,Spices,Everest,101.85,197
+16,Jam,Kissan,93.76,207
+17,Oats,Quaker,108.48,163
+18,Moong Dal,Tata Sampann,133.48,253
+19,Coffee Powder,Bru,187.38,205
+20,Cornflakes,Kellogg’s,48.34,144
+21,Chocolate,Cadbury,219.77,127
+22,Energy Drink,Red Bull,44.57,129
+23,Coffee,Nescafe,101.86,156
+24,Detergent Powder,Surf Excel,238.47,230
+25,Detergent Powder,Surf Excel,238.47,194
+26,Rasgulla,Haldiram,259.85,237
+27,Detergent Powder,Surf Excel,238.47,242
+28,Curd,Mother Dairy,40.92,122
+29,Tomato Ketchup,Maggi,46.46,212
+30,Floor Cleaner,Lizol,290.58,186
+31,Juice,Minute Maid,44.01,143
+32,Curd,Mother Dairy,40.92,112
+33,Rice,India Gate,138.88,242
+34,Spices,Everest,101.85,140
+35,Juice Drink,Real,52.87,225
+36,Face Wash,Himalaya,180.74,139
+37,Soap,Dove,50.26,190
+38,Energy Drink,Red Bull,44.57,69
+39,Tea,Generic,144.13,221
+40,Sugar,Dhampure,31.13,128
+41,Lassi,Amul,125.8,150
+42,Biscuits,Parle,12.92,145
+43,Energy Drink,Red Bull,44.57,216
+44,Hair Oil,Parachute,161.59,193
+45,Coconut Oil,Parachute,160.72,143
+46,Wheat Flour,Aashirvaad,40.76,244
+47,Rasgulla,Haldiram,259.85,178
+48,Ketchup,Maggi,68.77,193
+49,Mayonnaise,FunFoods,76.6,260
+50,Tea Bags,Tata Tea,60.73,182
+51,Soap,Dove,50.26,158
+52,Biscuits,Parle,12.92,183
+53,Toothpaste,Colgate,128.44,112
+54,Pickle Bottle,Pachranga,79.48,225
+55,Soap,Dove,50.26,257
+56,Pickle Bottle,Pachranga,79.48,167
+57,Dishwash Liquid,Generic,96.04,123
+58,Face Wash,Himalaya,180.74,207
+59,Coconut Oil,Parachute,160.72,218
+60,Pickle,Mother’s Recipe,122.72,229
+61,Detergent Powder,Surf Excel,238.47,131
+62,Tea,Generic,144.13,141
+63,Ghee,Amul,396.97,153
+64,Coffee,Nescafe,101.86,132
+65,Detergent Powder,Surf Excel,238.47,224
+66,Instant Mix,MTR,19.13,105
+67,Lassi,Amul,125.8,185
+68,Masoor Dal,Tata Sampann,56.43,165
+69,Paneer,Amul,364.27,220
+70,Energy Drink,Red Bull,44.57,185
+71,Snack Bars,Yoga Bar,63.83,214
+72,Ice Cream,Kwality Walls,68.64,112
+73,Coffee,Nescafe,101.86,163
+74,Toffee,Parle,69.93,131
+75,Toilet Cleaner,Harpic,54.28,172
+76,Hair Oil,Parachute,161.59,168
+77,Sugar,Dhampure,31.13,191
+78,Chips,Lay’s,61.84,122
+79,Wheat Flour,Aashirvaad,40.76,209
+80,Dishwash Liquid,Generic,96.04,170
+81,Cooking Oil,Fortune,184.93,163
+82,Wheat Flour,Aashirvaad,40.76,221
+83,Ketchup,Maggi,68.77,280
+84,Ketchup,Maggi,68.77,137
+85,Jam,Kissan,93.76,115
+86,Shampoo,Dove,182.63,194
+87,Snack Bars,Yoga Bar,63.83,249
+88,Cheese,Amul,520.04,191
+89,Rice,India Gate,138.88,123
+90,Milk,Generic,67.63,89
+91,Pickle,Mother’s Recipe,122.72,125
+92,Jam,Kissan,93.76,185
+93,Ghee,Amul,396.97,268
+94,Chana Dal,Tata Sampann,145.43,173
+95,Detergent Powder,Surf Excel,238.47,196
+96,Cereal,Kellogg’s,172.74,201
+97,Coconut Oil,Parachute,160.72,75
+98,Ketchup,Maggi,68.77,118
+99,Toilet Cleaner,Harpic,54.28,74
+100,Rasgulla,Haldiram,259.85,199
+101,Juice,Minute Maid,44.01,144
+102,Chips,Lay’s,61.84,105
+103,Shampoo,Dove,182.63,216
+104,Tea,Generic,144.13,161
+105,Butter,Amul,210.12,165
+106,Sugar,Dhampure,31.13,127
+107,Coffee,Nescafe,101.86,250
+108,Chocolate,Cadbury,219.77,114
+109,Curd,Mother Dairy,40.92,259
+110,Dishwash Liquid,Generic,96.04,116
+111,Paneer Block,Amul,292.01,125
+112,Soap,Dove,50.26,158
+113,Chana Dal,Tata Sampann,145.43,263
+114,Coffee,Nescafe,101.86,162
+115,Mango Pulp,Generic,99.19,215
+116,Ice Cream,Kwality Walls,68.64,236
+117,Mayonnaise,FunFoods,76.6,135
+118,Eggs,Suguna,65.34,221
+119,Bread,Britannia,29.34,189
+120,Hair Oil,Parachute,161.59,235
+121,Cornflakes,Kellogg’s,48.34,164
+122,Cheese,Amul,520.04,208
+123,Sanitary Napkin,Whisper,114.73,170
+124,Chocolate,Cadbury,219.77,155
+125,Toffee,Parle,69.93,150
+126,Detergent Powder,Surf Excel,238.47,174
+127,Muesli,Kellogg’s,139.15,173
+128,Toothpaste,Colgate,128.44,169
+129,Cheese,Amul,520.04,173
+130,Cheese,Amul,520.04,190
+131,Coconut Oil,Parachute,160.72,149
+132,Noodles,Maggi,49.7,199
+133,Detergent Powder,Surf Excel,238.47,103
+134,Detergent Powder,Surf Excel,238.47,196
+135,Chips,Lay’s,61.84,155
+136,Butter,Amul,210.12,153
+137,Detergent Powder,Surf Excel,238.47,251
+138,Juice,Minute Maid,44.01,112
+139,Body Lotion,Vaseline,239.26,239
+140,Butter,Amul,210.12,247
+141,Sugar,Dhampure,31.13,229
+142,Detergent Powder,Surf Excel,238.47,207
+143,Cereal,Kellogg’s,172.74,144
+144,Curd,Mother Dairy,40.92,199
+145,Coconut Oil,Parachute,160.72,165
+146,Masoor Dal,Tata Sampann,56.43,149
+147,Cornflakes,Kellogg’s,48.34,82
+148,Bread,Britannia,29.34,181
+149,Paneer Block,Amul,292.01,235
+150,Detergent Powder,Surf Excel,238.47,160
+151,Oats,Quaker,108.48,244
+152,Paneer Block,Amul,292.01,240
+153,Milk,Generic,67.63,275
+154,Juice Drink,Real,52.87,183
+155,Biscuits,Parle,12.92,169
+156,Juice,Minute Maid,44.01,245
+157,Chutney,Generic,45.44,257
+158,Cornflakes,Kellogg’s,48.34,139
+159,Biscuits,Parle,12.92,250
+160,Biscuits,Parle,12.92,236
+161,Pickle Bottle,Pachranga,79.48,248
+162,Chips,Lay’s,61.84,154
+163,Handwash,Lifebuoy,118.67,184
+164,Biscuits,Parle,12.92,158
+165,Lassi,Amul,125.8,200
+166,Coconut Oil,Parachute,160.72,256
+167,Bread,Britannia,29.34,126
+168,Body Lotion,Vaseline,239.26,235
+169,Bread,Britannia,29.34,149
+170,Face Cream,Nivea,100.18,133
+171,Tomato Ketchup,Maggi,46.46,223
+172,Chutney,Generic,45.44,156
+173,Detergent,Surf Excel,278.83,105
+174,Bisleri Water,Bisleri,82.79,277
+175,Masoor Dal,Tata Sampann,56.43,196
+176,Hand Cream,Nivea,74.23,95
+177,Body Lotion,Vaseline,239.26,260
+178,Cooking Oil,Fortune,184.93,96
+179,Soft Drink,Generic,57.99,201
+180,Cornflakes,Kellogg’s,48.34,184
+181,Body Lotion,Vaseline,239.26,162
+182,Juice,Minute Maid,44.01,196
+183,Honey,Dabur,158.03,127
+184,Cornflakes,Kellogg’s,48.34,194
+185,Mayonnaise,FunFoods,76.6,96
+186,Handwash,Lifebuoy,118.67,178
+187,Diaper,Pampers,73.34,236
+188,Handwash,Lifebuoy,118.67,172
+189,Honey,Dabur,158.03,182
+190,Hair Oil,Parachute,161.59,182
+191,Paneer Block,Amul,292.01,171
+192,Jam,Kissan,93.76,152
+193,Instant Mix,MTR,19.13,172
+194,Juice Drink,Real,52.87,186
+195,Chips,Lay’s,61.84,94
+196,Cooking Oil,Fortune,184.93,175
+197,Muesli,Kellogg’s,139.15,122
+198,Tea Bags,Tata Tea,60.73,89
+199,Chana Dal,Tata Sampann,145.43,213
+200,Pasta,Del Monte,139.16,222
+201,Chocolate,Cadbury,219.77,186
+202,Rice,India Gate,138.88,236
+203,Soft Drink,Generic,57.99,127
+204,Energy Drink,Red Bull,44.57,91
+205,Biscuits,Parle,12.92,105
+206,Chips,Lay’s,61.84,162
+207,Ghee,Amul,396.97,262
+208,Milk,Generic,67.63,231
+209,Hand Cream,Nivea,74.23,118
+210,Cereal,Kellogg’s,172.74,180
+211,Bread,Britannia,29.34,231
+212,Sugar,Dhampure,31.13,106
+213,Handwash,Lifebuoy,118.67,121
+214,Ghee,Amul,396.97,247
+215,Juice,Minute Maid,44.01,245
+216,Honey,Dabur,158.03,228
+217,Masoor Dal,Tata Sampann,56.43,157
+218,Pickle Bottle,Pachranga,79.48,114
+219,Jam,Kissan,93.76,244
+220,Masoor Dal,Tata Sampann,56.43,84
+221,Mayonnaise,FunFoods,76.6,251
+222,Bisleri Water,Bisleri,82.79,122
+223,Soya Chunks,Nutrela,77.42,124
+224,Face Wash,Himalaya,180.74,150
+225,Sanitary Napkin,Whisper,114.73,172
+226,Pickle Bottle,Pachranga,79.48,214
+227,Ketchup,Maggi,68.77,148
+228,Soft Candy,Pulse,72.89,91
+229,Snack Bars,Yoga Bar,63.83,220
+230,Jam,Kissan,93.76,97
+231,Face Cream,Nivea,100.18,93
+232,Jam,Kissan,93.76,157
+233,Tea,Generic,144.13,248
+234,Spices,Everest,101.85,154
+235,Ghee,Amul,396.97,178
+236,Honey,Dabur,158.03,265
+237,Wheat Flour,Aashirvaad,40.76,200
+238,Rice,India Gate,138.88,250
+239,Diaper,Pampers,73.34,169
+240,Detergent,Surf Excel,278.83,227
+241,Jam,Kissan,93.76,125
+242,Ghee,Amul,396.97,200
+243,Cornflakes,Kellogg’s,48.34,194
+244,Moong Dal,Tata Sampann,133.48,115
+245,Noodles,Maggi,49.7,190
+246,Bisleri Water,Bisleri,82.79,121
+247,Curd,Mother Dairy,40.92,158
+248,Pickle Bottle,Pachranga,79.48,185
+249,Wheat Flour,Aashirvaad,40.76,193
+250,Butter,Amul,210.12,198
+251,Butter,Amul,210.12,212
+252,Spices,Everest,101.85,109
+253,Noodles,Maggi,49.7,224
+254,Cheese,Amul,520.04,154
+255,Floor Cleaner,Lizol,290.58,149
+256,Hand Cream,Nivea,74.23,217
+257,Soft Candy,Pulse,72.89,117
+258,Ghee,Amul,396.97,186
+259,Handwash,Lifebuoy,118.67,173
+260,Soap,Dove,50.26,170
+261,Ketchup,Maggi,68.77,202
+262,Floor Cleaner,Lizol,290.58,218
+263,Coffee Powder,Bru,187.38,183
+264,Detergent,Surf Excel,278.83,254
+265,Coconut Oil,Parachute,160.72,261
+266,Noodles,Maggi,49.7,165
+267,Papad,Lijjat,57.35,155
+268,Toothpaste,Colgate,128.44,162
+269,Cereal,Kellogg’s,172.74,117
+270,Masoor Dal,Tata Sampann,56.43,130
+271,Papad,Lijjat,57.35,154
+272,Lassi,Amul,125.8,76
+273,Energy Drink,Red Bull,44.57,167
+274,Dishwash Liquid,Generic,96.04,230
+275,Bread,Britannia,29.34,245
+276,Jam,Kissan,93.76,237
+277,Diaper,Pampers,73.34,218
+278,Face Wash,Himalaya,180.74,172
+279,Soya Chunks,Nutrela,77.42,145
+280,Pickle Bottle,Pachranga,79.48,220
+281,Oats,Quaker,108.48,145
+282,Diaper,Pampers,73.34,159
+283,Papad,Lijjat,57.35,219
+284,Masoor Dal,Tata Sampann,56.43,206
+285,Bread,Britannia,29.34,221
+286,Rasgulla,Haldiram,259.85,152
+287,Chana Dal,Tata Sampann,145.43,125
+288,Sanitary Napkin,Whisper,114.73,105
+289,Butter,Amul,210.12,184
+290,Biscuits,Parle,12.92,263
+291,Detergent,Surf Excel,278.83,143
+292,Jam,Kissan,93.76,131
+293,Paneer Block,Amul,292.01,184
+294,Coffee,Nescafe,101.86,187
+295,Soft Candy,Pulse,72.89,88
+296,Spices,Everest,101.85,119
+297,Masoor Dal,Tata Sampann,56.43,236
+298,Juice,Minute Maid,44.01,262
+299,Moong Dal,Tata Sampann,133.48,247
+300,Lassi,Amul,125.8,174
+301,Biscuits,Parle,12.92,263
+302,Noodles,Maggi,49.7,147
+303,Bisleri Water,Bisleri,82.79,261
+304,Biscuits,Parle,12.92,176
+305,Floor Cleaner,Lizol,290.58,120
+306,Energy Drink,Red Bull,44.57,265
+307,Spices,Everest,101.85,160
+308,Jam,Kissan,93.76,252
+309,Oats,Quaker,108.48,134
+310,Moong Dal,Tata Sampann,133.48,193
+311,Coffee Powder,Bru,187.38,246
+312,Cornflakes,Kellogg’s,48.34,144
+313,Chocolate,Cadbury,219.77,162
+314,Energy Drink,Red Bull,44.57,127
+315,Coffee,Nescafe,101.86,165
+316,Detergent Powder,Surf Excel,238.47,222
+317,Detergent Powder,Surf Excel,238.47,156
+318,Rasgulla,Haldiram,259.85,236
+319,Detergent Powder,Surf Excel,238.47,214
+320,Curd,Mother Dairy,40.92,99
+321,Tomato Ketchup,Maggi,46.46,248
+322,Floor Cleaner,Lizol,290.58,140
+323,Juice,Minute Maid,44.01,186
+324,Curd,Mother Dairy,40.92,110
+325,Rice,India Gate,138.88,240
+326,Spices,Everest,101.85,81
+327,Juice Drink,Real,52.87,181
+328,Face Wash,Himalaya,180.74,151
+329,Soap,Dove,50.26,241
+330,Energy Drink,Red Bull,44.57,112
+331,Tea,Generic,144.13,283
+332,Sugar,Dhampure,31.13,97
+333,Lassi,Amul,125.8,169
+334,Biscuits,Parle,12.92,138
+335,Energy Drink,Red Bull,44.57,181
+336,Hair Oil,Parachute,161.59,197
+337,Coconut Oil,Parachute,160.72,72
+338,Wheat Flour,Aashirvaad,40.76,244
+339,Rasgulla,Haldiram,259.85,175
+340,Ketchup,Maggi,68.77,206
+341,Mayonnaise,FunFoods,76.6,248
+342,Tea Bags,Tata Tea,60.73,172
+343,Soap,Dove,50.26,166
+344,Biscuits,Parle,12.92,219
+345,Toothpaste,Colgate,128.44,150
+346,Pickle Bottle,Pachranga,79.48,260
+347,Soap,Dove,50.26,236
+348,Pickle Bottle,Pachranga,79.48,176
+349,Dishwash Liquid,Generic,96.04,143
+350,Face Wash,Himalaya,180.74,245
+351,Coconut Oil,Parachute,160.72,161
+352,Pickle,Mother’s Recipe,122.72,197
+353,Detergent Powder,Surf Excel,238.47,134
+354,Tea,Generic,144.13,148
+355,Ghee,Amul,396.97,158
+356,Coffee,Nescafe,101.86,107
+357,Detergent Powder,Surf Excel,238.47,220
+358,Instant Mix,MTR,19.13,93
+359,Lassi,Amul,125.8,201
+360,Masoor Dal,Tata Sampann,56.43,128
+361,Paneer,Amul,364.27,244
+362,Energy Drink,Red Bull,44.57,195
+363,Snack Bars,Yoga Bar,63.83,211
+364,Ice Cream,Kwality Walls,68.64,135
+365,Coffee,Nescafe,101.86,153
+366,Toffee,Parle,69.93,127
+367,Toilet Cleaner,Harpic,54.28,148
+368,Hair Oil,Parachute,161.59,190
+369,Sugar,Dhampure,31.13,161
+370,Chips,Lay’s,61.84,96
+371,Wheat Flour,Aashirvaad,40.76,217
+372,Dishwash Liquid,Generic,96.04,194
+373,Cooking Oil,Fortune,184.93,217
+374,Wheat Flour,Aashirvaad,40.76,226
+375,Ketchup,Maggi,68.77,254
+376,Ketchup,Maggi,68.77,161
+377,Jam,Kissan,93.76,145
+378,Shampoo,Dove,182.63,204
+379,Snack Bars,Yoga Bar,63.83,268
+380,Cheese,Amul,520.04,200
+381,Rice,India Gate,138.88,113
+382,Milk,Generic,67.63,98
+383,Pickle,Mother’s Recipe,122.72,159
+384,Jam,Kissan,93.76,187
+385,Ghee,Amul,396.97,234
+386,Chana Dal,Tata Sampann,145.43,156
+387,Detergent Powder,Surf Excel,238.47,144
+388,Cereal,Kellogg’s,172.74,246
+389,Coconut Oil,Parachute,160.72,117
+390,Ketchup,Maggi,68.77,124
+391,Toilet Cleaner,Harpic,54.28,98
+392,Rasgulla,Haldiram,259.85,245
+393,Juice,Minute Maid,44.01,118
+394,Chips,Lay’s,61.84,131
+395,Shampoo,Dove,182.63,170
+396,Tea,Generic,144.13,215
+397,Butter,Amul,210.12,210
+398,Sugar,Dhampure,31.13,124
+399,Coffee,Nescafe,101.86,242
+400,Chocolate,Cadbury,219.77,95
+401,Curd,Mother Dairy,40.92,211
+402,Dishwash Liquid,Generic,96.04,166
+403,Paneer Block,Amul,292.01,79
+404,Soap,Dove,50.26,129
+405,Chana Dal,Tata Sampann,145.43,227
+406,Coffee,Nescafe,101.86,185
+407,Mango Pulp,Generic,99.19,212
+408,Ice Cream,Kwality Walls,68.64,180
+409,Mayonnaise,FunFoods,76.6,125
+410,Eggs,Suguna,65.34,272
+411,Bread,Britannia,29.34,214
+412,Hair Oil,Parachute,161.59,251
+413,Cornflakes,Kellogg’s,48.34,132
+414,Cheese,Amul,520.04,177
+415,Sanitary Napkin,Whisper,114.73,220
+416,Chocolate,Cadbury,219.77,127
+417,Toffee,Parle,69.93,167
+418,Detergent Powder,Surf Excel,238.47,177
+419,Muesli,Kellogg’s,139.15,152
+420,Toothpaste,Colgate,128.44,113
+421,Cheese,Amul,520.04,158
+422,Cheese,Amul,520.04,190
+423,Coconut Oil,Parachute,160.72,150
+424,Noodles,Maggi,49.7,208
+425,Detergent Powder,Surf Excel,238.47,132
+426,Detergent Powder,Surf Excel,238.47,234
+427,Chips,Lay’s,61.84,150
+428,Butter,Amul,210.12,199
+429,Detergent Powder,Surf Excel,238.47,233
+430,Juice,Minute Maid,44.01,161
+431,Body Lotion,Vaseline,239.26,239
+432,Butter,Amul,210.12,257
+433,Sugar,Dhampure,31.13,237
+434,Detergent Powder,Surf Excel,238.47,160
+435,Cereal,Kellogg’s,172.74,121
+436,Curd,Mother Dairy,40.92,148
+437,Coconut Oil,Parachute,160.72,171
+438,Masoor Dal,Tata Sampann,56.43,152
+439,Cornflakes,Kellogg’s,48.34,131
+440,Bread,Britannia,29.34,180
+441,Paneer Block,Amul,292.01,255
+442,Detergent Powder,Surf Excel,238.47,126
+443,Oats,Quaker,108.48,197
+444,Paneer Block,Amul,292.01,217
+445,Milk,Generic,67.63,222
+446,Juice Drink,Real,52.87,168
+447,Biscuits,Parle,12.92,198
+448,Juice,Minute Maid,44.01,197
+449,Chutney,Generic,45.44,260
+450,Cornflakes,Kellogg’s,48.34,125
+451,Biscuits,Parle,12.92,255
+452,Biscuits,Parle,12.92,203
+453,Pickle Bottle,Pachranga,79.48,217
+454,Chips,Lay’s,61.84,132
+455,Handwash,Lifebuoy,118.67,199
+456,Biscuits,Parle,12.92,194
+457,Lassi,Amul,125.8,157
+458,Coconut Oil,Parachute,160.72,237
+459,Bread,Britannia,29.34,181
+460,Body Lotion,Vaseline,239.26,220
+461,Bread,Britannia,29.34,116
+462,Face Cream,Nivea,100.18,135
+463,Tomato Ketchup,Maggi,46.46,186
+464,Chutney,Generic,45.44,168
+465,Detergent,Surf Excel,278.83,152
+466,Bisleri Water,Bisleri,82.79,272
+467,Masoor Dal,Tata Sampann,56.43,196
+468,Hand Cream,Nivea,74.23,105
+469,Body Lotion,Vaseline,239.26,210
+470,Cooking Oil,Fortune,184.93,86
+471,Soft Drink,Generic,57.99,205
+472,Cornflakes,Kellogg’s,48.34,159
+473,Body Lotion,Vaseline,239.26,104
+474,Juice,Minute Maid,44.01,191
+475,Honey,Dabur,158.03,153
+476,Cornflakes,Kellogg’s,48.34,198
+477,Mayonnaise,FunFoods,76.6,114
+478,Handwash,Lifebuoy,118.67,114
+479,Diaper,Pampers,73.34,231
+480,Handwash,Lifebuoy,118.67,186
+481,Honey,Dabur,158.03,208
+482,Hair Oil,Parachute,161.59,241
+483,Paneer Block,Amul,292.01,157
+484,Jam,Kissan,93.76,158
+485,Instant Mix,MTR,19.13,134
+486,Juice Drink,Real,52.87,154
+487,Chips,Lay’s,61.84,149
+488,Cooking Oil,Fortune,184.93,154
+489,Muesli,Kellogg’s,139.15,104
+490,Tea Bags,Tata Tea,60.73,139
+491,Chana Dal,Tata Sampann,145.43,250
+492,Pasta,Del Monte,139.16,217
+493,Chocolate,Cadbury,219.77,170
+494,Rice,India Gate,138.88,251
+495,Soft Drink,Generic,57.99,141
+496,Energy Drink,Red Bull,44.57,120
+497,Biscuits,Parle,12.92,106
+498,Chips,Lay’s,61.84,198
+499,Ghee,Amul,396.97,198
+500,Milk,Generic,67.63,195

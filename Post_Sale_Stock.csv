@@ -1,0 +1,501 @@
+product_id,product_name,current_stock
+1,Paneer Block,140
+2,Coffee,139
+3,Soft Candy,68
+4,Spices,88
+5,Masoor Dal,175
+6,Juice,190
+7,Moong Dal,175
+8,Lassi,107
+9,Biscuits,197
+10,Noodles,110
+11,Bisleri Water,176
+12,Biscuits,154
+13,Floor Cleaner,50
+14,Energy Drink,180
+15,Spices,141
+16,Jam,162
+17,Oats,105
+18,Moong Dal,166
+19,Coffee Powder,183
+20,Cornflakes,107
+21,Chocolate,93
+22,Energy Drink,110
+23,Coffee,96
+24,Detergent Powder,198
+25,Detergent Powder,129
+26,Rasgulla,167
+27,Detergent Powder,196
+28,Curd,69
+29,Tomato Ketchup,195
+30,Floor Cleaner,96
+31,Juice,98
+32,Curd,63
+33,Rice,192
+34,Spices,50
+35,Juice Drink,166
+36,Face Wash,103
+37,Soap,167
+38,Energy Drink,52
+39,Tea,193
+40,Sugar,61
+41,Lassi,123
+42,Biscuits,65
+43,Energy Drink,151
+44,Hair Oil,166
+45,Coconut Oil,57
+46,Wheat Flour,171
+47,Rasgulla,141
+48,Ketchup,139
+49,Mayonnaise,185
+50,Tea Bags,109
+51,Soap,77
+52,Biscuits,150
+53,Toothpaste,90
+54,Pickle Bottle,194
+55,Soap,190
+56,Pickle Bottle,95
+57,Dishwash Liquid,84
+58,Face Wash,183
+59,Coconut Oil,131
+60,Pickle,164
+61,Detergent Powder,96
+62,Tea,59
+63,Ghee,105
+64,Coffee,79
+65,Detergent Powder,158
+66,Instant Mix,54
+67,Lassi,168
+68,Masoor Dal,82
+69,Paneer,167
+70,Energy Drink,114
+71,Snack Bars,195
+72,Ice Cream,60
+73,Coffee,134
+74,Toffee,75
+75,Toilet Cleaner,112
+76,Hair Oil,135
+77,Sugar,108
+78,Chips,76
+79,Wheat Flour,147
+80,Dishwash Liquid,154
+81,Cooking Oil,148
+82,Wheat Flour,178
+83,Ketchup,198
+84,Ketchup,104
+85,Jam,55
+86,Shampoo,144
+87,Snack Bars,182
+88,Cheese,151
+89,Rice,52
+90,Milk,72
+91,Pickle,102
+92,Jam,132
+93,Ghee,194
+94,Chana Dal,134
+95,Detergent Powder,127
+96,Cereal,159
+97,Coconut Oil,50
+98,Ketchup,100
+99,Toilet Cleaner,53
+100,Rasgulla,162
+101,Juice,81
+102,Chips,83
+103,Shampoo,141
+104,Tea,144
+105,Butter,121
+106,Sugar,88
+107,Coffee,167
+108,Chocolate,52
+109,Curd,172
+110,Dishwash Liquid,99
+111,Paneer Block,61
+112,Soap,103
+113,Chana Dal,182
+114,Coffee,106
+115,Mango Pulp,194
+116,Ice Cream,161
+117,Mayonnaise,96
+118,Eggs,200
+119,Bread,134
+120,Hair Oil,191
+121,Cornflakes,115
+122,Cheese,124
+123,Sanitary Napkin,152
+124,Chocolate,87
+125,Toffee,99
+126,Detergent Powder,147
+127,Muesli,131
+128,Toothpaste,79
+129,Cheese,128
+130,Cheese,140
+131,Coconut Oil,101
+132,Noodles,128
+133,Detergent Powder,79
+134,Detergent Powder,155
+135,Chips,100
+136,Butter,130
+137,Detergent Powder,182
+138,Juice,78
+139,Body Lotion,181
+140,Butter,187
+141,Sugar,194
+142,Detergent Powder,123
+143,Cereal,66
+144,Curd,133
+145,Coconut Oil,118
+146,Masoor Dal,83
+147,Cornflakes,55
+148,Bread,102
+149,Paneer Block,175
+150,Detergent Powder,92
+151,Oats,164
+152,Paneer Block,160
+153,Milk,200
+154,Juice Drink,129
+155,Biscuits,144
+156,Juice,167
+157,Chutney,193
+158,Cornflakes,57
+159,Biscuits,181
+160,Biscuits,153
+161,Pickle Bottle,181
+162,Chips,74
+163,Handwash,145
+164,Biscuits,142
+165,Lassi,110
+166,Coconut Oil,171
+167,Bread,100
+168,Body Lotion,196
+169,Bread,70
+170,Face Cream,54
+171,Tomato Ketchup,141
+172,Chutney,110
+173,Detergent,71
+174,Bisleri Water,198
+175,Masoor Dal,119
+176,Hand Cream,50
+177,Body Lotion,182
+178,Cooking Oil,61
+179,Soft Drink,139
+180,Cornflakes,95
+181,Body Lotion,83
+182,Juice,127
+183,Honey,94
+184,Cornflakes,122
+185,Mayonnaise,75
+186,Handwash,96
+187,Diaper,170
+188,Handwash,105
+189,Honey,143
+190,Hair Oil,156
+191,Paneer Block,112
+192,Jam,97
+193,Instant Mix,110
+194,Juice Drink,130
+195,Chips,75
+196,Cooking Oil,85
+197,Muesli,50
+198,Tea Bags,57
+199,Chana Dal,162
+200,Pasta,148
+201,Chocolate,96
+202,Rice,176
+203,Soft Drink,105
+204,Energy Drink,63
+205,Biscuits,77
+206,Chips,127
+207,Ghee,179
+208,Milk,158
+209,Hand Cream,63
+210,Cereal,105
+211,Bread,164
+212,Sugar,56
+213,Handwash,52
+214,Ghee,160
+215,Juice,200
+216,Honey,156
+217,Masoor Dal,67
+218,Pickle Bottle,87
+219,Jam,164
+220,Masoor Dal,64
+221,Mayonnaise,168
+222,Bisleri Water,77
+223,Soya Chunks,88
+224,Face Wash,66
+225,Sanitary Napkin,135
+226,Pickle Bottle,175
+227,Ketchup,93
+228,Soft Candy,74
+229,Snack Bars,194
+230,Jam,62
+231,Face Cream,74
+232,Jam,117
+233,Tea,187
+234,Spices,116
+235,Ghee,158
+236,Honey,195
+237,Wheat Flour,160
+238,Rice,160
+239,Diaper,83
+240,Detergent,160
+241,Jam,57
+242,Ghee,162
+243,Cornflakes,132
+244,Moong Dal,91
+245,Noodles,150
+246,Bisleri Water,55
+247,Curd,75
+248,Pickle Bottle,113
+249,Wheat Flour,108
+250,Butter,158
+251,Butter,170
+252,Spices,82
+253,Noodles,199
+254,Cheese,70
+255,Floor Cleaner,119
+256,Hand Cream,161
+257,Soft Candy,53
+258,Ghee,143
+259,Handwash,124
+260,Soap,111
+261,Ketchup,143
+262,Floor Cleaner,144
+263,Coffee Powder,104
+264,Detergent,186
+265,Coconut Oil,180
+266,Noodles,80
+267,Papad,89
+268,Toothpaste,85
+269,Cereal,55
+270,Masoor Dal,115
+271,Papad,124
+272,Lassi,53
+273,Energy Drink,128
+274,Dishwash Liquid,183
+275,Bread,167
+276,Jam,162
+277,Diaper,143
+278,Face Wash,111
+279,Soya Chunks,128
+280,Pickle Bottle,185
+281,Oats,75
+282,Diaper,93
+283,Papad,182
+284,Masoor Dal,119
+285,Bread,167
+286,Rasgulla,117
+287,Chana Dal,68
+288,Sanitary Napkin,69
+289,Butter,162
+290,Biscuits,189
+291,Detergent,96
+292,Jam,50
+293,Sugar,139
+294,Mango Pulp,191
+295,Ghee,113
+296,Juice Drink,87
+297,Chocolate,86
+298,Paneer,175
+299,Tea Bags,188
+300,Soya Chunks,149
+301,Masoor Dal,126
+302,Eggs,52
+303,Energy Drink,183
+304,Rice,59
+305,Muesli,54
+306,Mayonnaise,200
+307,Toffee,187
+308,Honey,179
+309,Toilet Cleaner,62
+310,Wheat Flour,179
+311,Soft Drink,133
+312,Tea,114
+313,Coffee,112
+314,Sanitary Napkin,150
+315,Bread,122
+316,Dishwash Liquid,66
+317,Curd,58
+318,Soya Chunks,192
+319,Oats,87
+320,Dishwash Liquid,143
+321,Detergent Powder,144
+322,Moong Dal,98
+323,Oats,118
+324,Oats,111
+325,Coffee Powder,127
+326,Paneer Block,166
+327,Chocolate,169
+328,Body Lotion,186
+329,Coffee,125
+330,Pickle Bottle,84
+331,Energy Drink,50
+332,Wheat Flour,89
+333,Lassi,113
+334,Energy Drink,199
+335,Shampoo,109
+336,Face Cream,113
+337,Toothpaste,142
+338,Rasgulla,121
+339,Tomato Ketchup,60
+340,Instant Mix,154
+341,Paneer Block,63
+342,Soft Drink,109
+343,Eggs,79
+344,Noodles,84
+345,Handwash,54
+346,Detergent,132
+347,Dishwash Liquid,172
+348,Handwash,127
+349,Oats,111
+350,Tomato Ketchup,181
+351,Detergent Powder,138
+352,Chana Dal,91
+353,Sugar,138
+354,Milk,195
+355,Chips,89
+356,Oats,121
+357,Chips,88
+358,Pickle,153
+359,Ghee,63
+360,Chips,81
+361,Soft Drink,174
+362,Soft Candy,146
+363,Floor Cleaner,72
+364,Dishwash Liquid,112
+365,Hand Cream,192
+366,Moong Dal,194
+367,Diaper,102
+368,Paneer,153
+369,Soft Drink,153
+370,Curd,88
+371,Muesli,183
+372,Ice Cream,116
+373,Hand Cream,184
+374,Rasgulla,91
+375,Detergent Powder,64
+376,Hand Cream,160
+377,Soft Drink,82
+378,Ghee,87
+379,Juice Drink,146
+380,Jam,82
+381,Chana Dal,135
+382,Salt,115
+383,Hand Cream,59
+384,Pickle,54
+385,Paneer Block,172
+386,Salt,123
+387,Handwash,146
+388,Oats,167
+389,Chips,87
+390,Hand Cream,190
+391,Soap,96
+392,Soft Drink,158
+393,Masoor Dal,64
+394,Biscuits,185
+395,Bread,54
+396,Masoor Dal,96
+397,Milk,117
+398,Tea Bags,125
+399,Ketchup,179
+400,Jam,144
+401,Jam,164
+402,Soft Candy,85
+403,Curd,75
+404,Mango Pulp,92
+405,Milk,76
+406,Diaper,118
+407,Toilet Cleaner,197
+408,Jam,60
+409,Instant Mix,123
+410,Mango Pulp,153
+411,Coconut Oil,87
+412,Ice Cream,183
+413,Eggs,72
+414,Milk,96
+415,Papad,139
+416,Biscuits,95
+417,Ketchup,156
+418,Wheat Flour,189
+419,Paneer,190
+420,Pickle,153
+421,Rice,160
+422,Face Cream,153
+423,Oats,109
+424,Ice Cream,149
+425,Mayonnaise,117
+426,Spices,182
+427,Mayonnaise,169
+428,Salt,86
+429,Masoor Dal,121
+430,Floor Cleaner,176
+431,Coffee Powder,155
+432,Mayonnaise,141
+433,Masoor Dal,80
+434,Chana Dal,171
+435,Detergent Powder,186
+436,Cereal,100
+437,Milk,78
+438,Tomato Ketchup,89
+439,Eggs,90
+440,Chana Dal,60
+441,Noodles,200
+442,Detergent,50
+443,Detergent Powder,95
+444,Eggs,150
+445,Cornflakes,198
+446,Handwash,139
+447,Coffee Powder,159
+448,Milk,106
+449,Soft Candy,50
+450,Handwash,112
+451,Sugar,104
+452,Hair Oil,164
+453,Cheese,192
+454,Paneer Block,198
+455,Soft Drink,102
+456,Hand Cream,186
+457,Milk,106
+458,Soya Chunks,166
+459,Paneer Block,84
+460,Lassi,112
+461,Chana Dal,74
+462,Soft Drink,139
+463,Muesli,124
+464,Juice Drink,87
+465,Lassi,179
+466,Chocolate,184
+467,Oats,140
+468,Juice Drink,66
+469,Tea,177
+470,Shampoo,157
+471,Ketchup,74
+472,Face Wash,137
+473,Sugar,78
+474,Oats,112
+475,Detergent,199
+476,Rice,163
+477,Papad,98
+478,Eggs,130
+479,Instant Mix,133
+480,Chocolate,154
+481,Sugar,197
+482,Tea Bags,167
+483,Butter,135
+484,Sanitary Napkin,112
+485,Shampoo,153
+486,Ice Cream,98
+487,Cereal,120
+488,Bisleri Water,50
+489,Wheat Flour,190
+490,Toilet Cleaner,172
+491,Detergent,111
+492,Hair Oil,81
+493,Toffee,78
+494,Soap,98
+495,Mayonnaise,79
+496,Body Lotion,193
+497,Pasta,68
+498,Handwash,67
+499,Soft Candy,50
+500,Pickle Bottle,127
